@@ -1,0 +1,57 @@
+body {
+    background-image: linear-gradient(black, rgb(0, 174, 255), black);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  h1{
+    color: transparent;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    -webkit-text-stroke: .1px white;
+    letter-spacing: 4px;
+    
+    
+    
+  }
+  h2{
+    
+
+  }
+  .freelancer {
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    margin: 10px 0;
+  }
+  .averagePriceContainer{
+    color: white;
+
+    
+
+  }
+  .H1Container{
+    background-color: transparent;
+    margin: auto;
+    width: 400px;
+    border: solid 2px white;
+  }
+  .Tabs{
+    font-size: 35px;
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    color: white;
+
+  }
+#Name{
+    padding: 20px;
+}
+#Occupation{
+    padding: 20px;
+}
+#Price{
+    padding: 20px
+}
